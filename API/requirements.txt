@@ -1,0 +1,6 @@
+pip install -q -U google-generativeai
+pip install pyotp
+pip install pywhatkit
+pip install tensorflow keras opencv-python
+pip install "fastapi[standard]"
+pip install pandas google-generativeai
